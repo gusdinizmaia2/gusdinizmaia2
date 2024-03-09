@@ -1,10 +1,10 @@
 ### Olá eu sou Gustavo, sou um desenvolvedor web front-end a caminho de ser full stack
 
-- 🔭 Atualmente faço curso e monitoria na Kenzie Academy
-- 🌱 Estou agora aprendendo e aperfeiçoando React
+- 🔭 Sou certificado pela Kenzie Academy Brasil
+- 🌱 Curso Análise e Desenvolvimento de Sistemas
 - 😄 Pronomes: ele / dele
-- ⚡ Curiosidade: Também sou músico, amo jogos e meus gatinhos <3
-
+- ⚡ Curiosidade: Também sou músico, gosto de jogos e sou interessado sobre áreas do conhecimento como filosofia, física, etc...
+  
 <div align="center">
   <a href="https://github.com/gusdinizmaia">
   <img height="180em"  src="https://github-readme-stats-gusdinizmaia.vercel.app/api?username=gusdinizmaia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
