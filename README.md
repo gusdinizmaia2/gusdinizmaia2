@@ -1,9 +1,10 @@
-### Olá eu sou Gustavo, sou um desenvolvedor web front-end a caminho de ser full stack
+### Olá eu sou Gustavo, sou um desenvolvedor web full stack
 
 - 🔭 Sou certificado pela Kenzie Academy Brasil
+- 💻 Programo em Python, Java e JavaScript
 - 🌱 Curso Análise e Desenvolvimento de Sistemas
-- 😄 Pronomes: ele / dele
 - ⚡ Curiosidade: Também sou músico, gosto de jogos e sou interessado sobre áreas do conhecimento como filosofia, física, etc...
+- 😄 Pronomes: ele / dele
   
 <div align="center">
   <a href="https://github.com/gusdinizmaia">
