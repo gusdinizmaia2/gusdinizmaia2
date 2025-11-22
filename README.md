@@ -10,9 +10,9 @@
 <h2>Perfil antigo (gusdinizmaia)</h2>
 <div align=center>
  <!-- <a href="https://github.com/gusdinizmaia2"> -->
-  <img height="180em" src="https://github-readme-stats-gusdinizmaia.vercel.app/api?username=gusdinizmaia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em"  src="https://github-readme-stats-gusdinizmaia.vercel.app/api/top-langs/?username=gusdinizmaia&layout=compact&langs_count=7&theme=dracula"/>
-  </div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gusdinizmaia&show_icons=true&count_private=true&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusdinizmaia&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
   <br/>
   
